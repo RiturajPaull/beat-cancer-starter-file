@@ -1,5 +1,6 @@
 import React from "react";
 import Model from "./Model";
+import { IconProgress } from "@tabler/icons-react";
 
 const FileUploadModel = ({
   isOpen,
